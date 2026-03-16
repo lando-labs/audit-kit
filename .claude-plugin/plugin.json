@@ -1,0 +1,13 @@
+{
+  "name": "audit-kit",
+  "description": "Educational codebase auditing agents that teach you how to assess security, dependencies, code health, and standards compliance",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lando Labs",
+    "email": "hello@lando-labs.com"
+  },
+  "homepage": "https://github.com/lando-labs/audit-kit",
+  "repository": "https://github.com/lando-labs/audit-kit",
+  "license": "MIT",
+  "keywords": ["audit", "security", "dependencies", "code-quality", "standards", "compliance", "claude-code", "consulting"]
+}
